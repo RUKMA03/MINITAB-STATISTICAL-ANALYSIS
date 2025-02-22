@@ -1,8 +1,5 @@
 # Statistical Datasets for Minitab
 
-![GitHub](https://img.shields.io/badge/License-MIT-blue)
-![GitHub](https://img.shields.io/badge/Version-1.0.0-green)
-
 ## Overview
 This repository contains **10 statistical models** designed for statistical analysis in **Minitab**. These  cover a variety of statistical concepts, including **descriptive statistics**, **hypothesis testing**, **regression**, **ANOVA**, **quality control**, and more. Each dataset is provided in **CSV format** for easy import into Minitab or other statistical software.
 
