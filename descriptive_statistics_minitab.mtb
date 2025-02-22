@@ -1,0 +1,11 @@
+# Descriptive Statistics in Minitab
+
+# Open Minitab and load your dataset
+# Use the following commands in the Minitab Command Line
+
+Describe C1 C2 C3; # Summarizes mean, median, standard deviation
+    Mean;
+    Median;
+    StDev;
+    Minimum;
+    Maximum.

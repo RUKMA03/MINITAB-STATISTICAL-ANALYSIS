@@ -1,0 +1,6 @@
+# Hypothesis Testing in Minitab
+
+# One-Sample T-Test (Testing if mean = 50)
+TTEST 50 C1;
+    Alternative 1;
+    Confidence 95.

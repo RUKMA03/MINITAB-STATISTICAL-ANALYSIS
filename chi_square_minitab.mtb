@@ -1,0 +1,5 @@
+# Chi-Square Test in Minitab
+
+# Chi-Square test for independence between C1 and C2
+TABLE C1 C2;
+    CHISQUARE.

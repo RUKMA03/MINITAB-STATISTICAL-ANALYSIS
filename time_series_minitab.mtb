@@ -1,0 +1,7 @@
+# Time Series Analysis in Minitab
+
+# Forecasting with ARIMA Model
+ARIMA C1;
+    AR(1);
+    MA(1);
+    Differencing 1.

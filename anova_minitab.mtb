@@ -1,0 +1,6 @@
+# ANOVA (Analysis of Variance) in Minitab
+
+# One-Way ANOVA to compare means across groups
+ANOVA C1 = C2;
+    Means;
+    Tukey.

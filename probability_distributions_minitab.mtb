@@ -1,0 +1,9 @@
+# Probability Distributions in Minitab
+
+# Generating a Normal Distribution (Mean = 50, Std Dev = 10)
+RAND 100 C1;
+    Normal 50 10.
+
+# Finding probability from Normal Distribution (P(X < 60))
+CDF 60;
+    Normal 50 10.

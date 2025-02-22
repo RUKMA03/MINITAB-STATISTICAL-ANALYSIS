@@ -1,0 +1,6 @@
+# Control Charts in Minitab
+
+# Xbar-R Control Chart for process stability
+XBAR C1 C2;
+    RChart;
+    CenterLine.

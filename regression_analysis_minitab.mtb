@@ -1,0 +1,7 @@
+# Regression Analysis in Minitab
+
+# Linear Regression (Predict C1 using C2 and C3)
+REGRESS C1 = C2 C3;
+    Coefficients;
+    Residuals;
+    ANOVA.
